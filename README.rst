@@ -25,6 +25,7 @@ Beginner Programming
 
     - `Bento Technology Education`_
 
+      - `Data Structure Visualizations`_
       - `Runestone Academy Library of Books`_
 
     - `ebookfoundation.github.io/free-programming-books`_
@@ -34,6 +35,7 @@ Beginner Programming
     - `r/learnprogramming/wiki/faq - Practice Exercises and Project Ideas`_
 
 .. _Bento Technology Education: https://bento.io/topics
+.. _Data Structure Visualizations: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 .. _Runestone Academy Library of Books: https://runestone.academy/ns/books/index
 .. _ebookfoundation.github.io/free-programming-books: https://ebookfoundation.github.io/free-programming-books/
 .. _github.com/EbookFoundation/free-programming-books: https://github.com/EbookFoundation/free-programming-books
