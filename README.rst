@@ -106,6 +106,17 @@ Career Growth
 
 - https://abseil.io/resources/swe-book/html/toc.html
 
+Collaboration
+=============
+
+Code Review
+-----------
+
+- `github.com/thoughtbot/guides/code-review`_
+
+.. _github.com/thoughtbot/guides/code-review: https://github.com/thoughtbot/guides/tree/main/code-review
+
+
 Interviewing
 ============
 
