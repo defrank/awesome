@@ -9,6 +9,12 @@ Software Engineering
 Programming
 ===========
 
+Learn Programming
+-----------------
+
+Beginner Programming
+^^^^^^^^^^^^^^^^^^^^
+
 - `r/learnprogramming/wiki`_
 
   - `r/learnprogramming/wiki/books`_
@@ -36,6 +42,63 @@ Programming
 .. _r/learnprogramming/wiki/faq: https://www.reddit.com/r/learnprogramming/wiki/faq/
 .. _r/learnprogramming/wiki/online: https://www.reddit.com/r/learnprogramming/wiki/online/
 .. _r/learnprogramming/wiki: https://www.reddit.com/r/learnprogramming/wiki/index/
+
+Intermediate Programming
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+- `Refactoring Guru`_
+
+.. _Refactoring Guru: https://refactoring.guru/refactoring
+
+
+Python
+------
+
+Beginner Python
+^^^^^^^^^^^^^^^
+
+- `The Hitchhiker's Guide to Python`_
+- `Real Python`_
+- `Dive into Python 3`_
+
+.. _Dive into Python 3: https://diveintopython3.net/
+.. _Real Python: https://realpython.com/
+.. _The Hitchhiker's Guide to Python: https://docs.python-guide.org/
+
+Being Pythonic
+^^^^^^^^^^^^^^
+
+- `PEP 8 - Style Guide for Python Code`_
+- `PEP 20 - The Zen of Python`_
+- `The Little Book of Python Anti-Patterns`_
+
+.. _PEP 8 - Style Guide for Python Code: https://peps.python.org/pep-0008/
+.. _PEP 20 - The Zen of Python: https://peps.python.org/pep-0020/
+.. _The Little Book of Python Anti-Patterns: https://docs.quantifiedcode.com/python-anti-patterns/
+
+Intermediate Python
+^^^^^^^^^^^^^^^^^^^
+
+- `Python Cookbook`_
+- `Obey the Testing Goat!`_
+- `Full Stack Python`_
+- `Design Patterns in Python`_
+- `Python Design Patterns`_
+- `Ultimate Python`_
+
+.. _Design Patterns in Python: https://refactoring.guru/design-patterns/python
+.. _Full Stack Python: https://www.fullstackpython.com/
+.. _Obey the Testing Goat!: http://www.obeythetestinggoat.com/pages/book.html
+.. _Python Cookbook: http://www.dabeaz.com/cookbook.html
+.. _Python Design Patterns: https://python-patterns.guide/
+.. _Ultimate Python: https://github.com/huangsam/ultimate-python
+
+Advanced Python
+^^^^^^^^^^^^^^^
+
+- `Python Wiki - Advanced Books`_
+
+.. _Python Wiki - Advanced Books: https://wiki.python.org/moin/AdvancedBooks
 
 
 Career Growth
