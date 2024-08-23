@@ -131,6 +131,9 @@ Interviewing
 DevOps & SRE
 ************
 
+Metrics
+=======
+
 - `DORA Metrics <https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment#DORA_Four_Key_Metrics>`_
 
   - **Deployment Frequency:** How often an organization successfully
@@ -143,3 +146,9 @@ DevOps & SRE
     organization to recover from a failure/outage in production;
     `not to be confused with MTTRepair, MTTResolve, and MTTRespond
     <https://www.atlassian.com/incident-management/kpis/common-metrics>`_
+
+
+Books
+=====
+
+- `Google SRE Books <https://sre.google/books/>`_
