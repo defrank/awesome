@@ -48,6 +48,13 @@
 - [r/SQL/wiki](https://www.reddit.com/r/SQL/wiki/index/)
 
 
+## Editors
+
+### VI(m)
+
+- [mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc#readme)
+
+
 ## Interviewing
 
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
@@ -273,3 +280,9 @@
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git#readme)
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github#readme)
+
+
+## More Awesome
+
+- [All Awesome Lists](https://github.com/topics/awesome)
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme)
