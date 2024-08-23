@@ -53,60 +53,62 @@ Intermediate Programming
 .. _Refactoring Guru: https://refactoring.guru/refactoring
 
 
+Learn a Language
+----------------
+
+- `Learn X in Y Minutes <https://learnxinyminutes.com/>`_
+
 Python
 ------
 
 Beginner Python
 ^^^^^^^^^^^^^^^
 
-- `The Hitchhiker's Guide to Python`_
-- `Real Python`_
-- `Dive into Python 3`_
+- `Beginner's Guide to Python <https://wiki.python.org/moin/BeginnersGuide>`_
+- `The Python Tutorial <https://docs.python.org/3/tutorial/index.html>`_
+- `Practical Python Programming <https://dabeaz-course.github.io/practical-python/Notes/Contents.html>`_
+- `Automate the Boring Stuff with Python <https://automatetheboringstuff.com/2e/>`_
+- `r/learnpython <https://www.reddit.com/r/learnpython/wiki/index/>`_
 
-.. _Dive into Python 3: https://diveintopython3.net/
-.. _Real Python: https://realpython.com/
-.. _The Hitchhiker's Guide to Python: https://docs.python-guide.org/
 
 Being Pythonic
 ^^^^^^^^^^^^^^
 
-- `PEP 8 - Style Guide for Python Code`_
-- `PEP 20 - The Zen of Python`_
-- `The Little Book of Python Anti-Patterns`_
+- `PEP 8 - Style Guide for Python Code <https://peps.python.org/pep-0008/>`_
+- `PEP 20 - The Zen of Python <https://peps.python.org/pep-0020/>`_
+- `The Hitchhiker's Guide to Python <https://docs.python-guide.org/>`_ (except Pipenv)
+- `The Little Book of Python Anti-Patterns <https://docs.quantifiedcode.com/python-anti-patterns/>`_
 
-.. _PEP 8 - Style Guide for Python Code: https://peps.python.org/pep-0008/
-.. _PEP 20 - The Zen of Python: https://peps.python.org/pep-0020/
-.. _The Little Book of Python Anti-Patterns: https://docs.quantifiedcode.com/python-anti-patterns/
 
 Intermediate Python
 ^^^^^^^^^^^^^^^^^^^
 
-- `Python Cookbook`_
-- `Obey the Testing Goat!`_
-- `Full Stack Python`_
-- `Design Patterns in Python`_
-- `Python Design Patterns`_
-- `Ultimate Python`_
+- `Python Cookbook <http://www.dabeaz.com/cookbook.html>`_
+- `Obey the Testing Goat! <http://www.obeythetestinggoat.com/pages/book.html>`_
+- `Full Stack Python <http://www.obeythetestinggoat.com/pages/book.html>`_
+- `Design Patterns in Python <https://refactoring.guru/design-patterns/python>`_
+- `Python Design Patterns <https://python-patterns.guide/>`_
+- `Ultimate Python <https://github.com/huangsam/ultimate-python>`_
+- `Debugging and Profiling | MIT <https://missing.csail.mit.edu/2020/debugging-profiling/>`_
 
-.. _Design Patterns in Python: https://refactoring.guru/design-patterns/python
-.. _Full Stack Python: https://www.fullstackpython.com/
-.. _Obey the Testing Goat!: http://www.obeythetestinggoat.com/pages/book.html
-.. _Python Cookbook: http://www.dabeaz.com/cookbook.html
-.. _Python Design Patterns: https://python-patterns.guide/
-.. _Ultimate Python: https://github.com/huangsam/ultimate-python
 
 Advanced Python
 ^^^^^^^^^^^^^^^
 
-- `Python Wiki - Advanced Books`_
+- `Python Wiki - Advanced Books <https://wiki.python.org/moin/AdvancedBooks>`_
 
-.. _Python Wiki - Advanced Books: https://wiki.python.org/moin/AdvancedBooks
+
+More Python Lists
+^^^^^^^^^^^^^^^^^
+
+- `vinta/awesome-python <https://github.com/vinta/awesome-python#readme>`_
 
 
 Career Growth
 =============
 
 - https://abseil.io/resources/swe-book/html/toc.html
+
 
 Collaboration
 =============
