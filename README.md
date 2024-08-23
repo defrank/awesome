@@ -1,26 +1,160 @@
 # Awesome Resources
 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome#readme)
+
+
 ## Collaboration
 
 ### Code Review
 
 - [thoughtbot/guides/code-review](https://github.com/thoughtbot/guides/tree/main/code-review)
+  -- excellent for async communication in general
 - [google/eng-practices/review](https://google.github.io/eng-practices/review/)
 
 
 ## Computer Science
 
+- https://roadmap.sh/computer-science
+- [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science#readme)
+- [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses#readme)
+
+
 ### Algorithms
+
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+
 
 ### Data Structures
 
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+### CS Practice
+
+- [LeetCode](https://leetcode.com/problemset/)
+
+
+## Courses
+
+- [MIT OpenCourseWare (OCW)](https://ocw.mit.edu/search/)
+
+
+## Databases
+
+- [numetriclabz/awesome-db](https://github.com/numetriclabz/awesome-db#readme)
+
+### SQL
+
+- [r/SQL/wiki](https://www.reddit.com/r/SQL/wiki/index/)
 
 
 ## Interviewing
 
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
 
+
+## Computer Networking
+
+- [An Introduction to Computer Networking](https://intronetworks.cs.luc.edu/current2/html/)
+- [The TCP/IP Guide](http://www.tcpipguide.com/free/index.htm)
+- [What is DNS? | How DNS Works | Cloudflare](https://www.cloudflare.com/en-gb/learning/dns/what-is-dns/)
+- [What is SSL? | SSL Definition | Cloudflare](https://www.cloudflare.com/learning/ssl/what-is-ssl/)
+- [What is the Network Layer? | Network vs. Internet Layer | Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-the-network-layer/)
+- [facyber/awesome-networking](https://github.com/facyber/awesome-networking#readme)
+- [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking#readme)
+- [r/networking/wiki](https://www.reddit.com/r/networking/wiki/index/)
+
+
+## Cloud Computing & Infrastructure
+
+### Amazon Web Resources (AWS)
+
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws#readme)
+- [open-guides/og-aws](https://github.com/open-guides/og-aws#readme)
+
+### Infrastructure-as-Code
+
+#### Terraform & OpenTofu
+
+- [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf#readme)
+
+
+## Containers
+
+### Docker
+
+- [Friz-zy/awesome-linux-containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+- [The Docker Handbook](https://docker-handbook.farhan.dev/)
+- [docker for beginners](https://docker-curriculum.com/)
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker#readme)
+
+
+## DevOps
+
+- https://roadmap.sh/devops
+
+
+### Continuous Integration and Deployment (CI/CD)
+
+- [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd#readme)
+
+
+### Monitoring
+
+- [Enapiuz/awesome-monitoring](https://github.com/Enapiuz/awesome-monitoring#readme)
+- [awcodify/awesome-monitoring](https://github.com/awcodify/awesome-monitoring#readme)
+- [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring#readme)
+
+
+### Reliability (SRE)
+
+- [DORA Metrics](https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment#DORA_Four_Key_Metrics)
+  - **Deployment Frequency:** How often an organization successfully
+    releases to production
+  - **Lead Time for Changes:** The amount of time it takes a commit to
+    get into production
+  - **Change Failure Rate:** The percentage of deployments causing a
+    failure in production
+  - **Mean Time to Recovery/Restore (MTTR):** How long it takes an
+    organization to recover from a failure/outage in production;
+    [not to be confused with MTTRepair, MTTResolve, and MTTRespond](https://www.atlassian.com/incident-management/kpis/common-metrics)
+- [Google SRE Books](https://sre.google/books/)
+- [awesome-sre](https://github.com/dastergon/awesome-sre#readme)
+
+
+## Operating Systems
+
+- https://www.tutorialspoint.com/operating_system/index.htm
+
+
+### Commandline Interface (CLI)
+
+- [The Missing Semester of Your CS Education | MIT](https://missing.csail.mit.edu/)
+
+
+### Linux
+
+- [Linux Journey](https://linuxjourney.com/)
+- [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+- [inputsh/awesome-linux](https://github.com/inputsh/awesome-linux#readme)
+
+#### Linux Distrobutions
+
+- [ArchLinux](https://archlinux.org/) as my personal favorite distro
+- [Fedora](https://docs.fedoraproject.org/en-US/docs/) for
+  enterprise/work use, which is also the base distro for CentOS and
+  Red Hat Enterprise Linux (RHEL)
+- [Gentoo](https://www.gentoo.org/)
+- [Linux from Scratch](https://www.linuxfromscratch.org/) for hardcore
+  learning
+- [Slackware](http://www.slackware.com/index.html)
+
+
+## Privacy
+
+- [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy#readme)
+- [What is Data Privacy? | Cloudflare](https://www.cloudflare.com/en-gb/learning/privacy/what-is-data-privacy/)
+- [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy#readme)
 
 ## Programming
 
@@ -47,7 +181,34 @@
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
 
-### Learn Python
+### Go Lang
+
+- [avelino/awesome-go](https://github.com/avelino/awesome-go#readme)
+
+
+#### Beginner Go
+
+- [Learn Go in Y Minutes](https://learnxinyminutes.com/docs/go/)
+- [A Tour of Go](https://go.dev/tour/list)
+- [How to Write Go Code](https://go.dev/doc/code)
+
+
+#### Idiomatic Go
+
+- [Managing Module Source](https://go.dev/doc/modules/managing-source)
+- [Organizing a Go Module](https://go.dev/doc/modules/layout)
+- [Effective Go](https://go.dev/doc/effective_go)
+
+
+#### Intermediate Go
+
+- [The Go Programming Language Specification](https://go.dev/ref/spec)
+
+
+### Python
+
+- [vinta/awesome-python](https://github.com/vinta/awesome-python#readme)
+
 
 #### Beginner Python
 
@@ -55,15 +216,15 @@
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
-- [r/learnpython](https://www.reddit.com/r/learnpython/wiki/index/)
+- [r/learnpython/wiki](https://www.reddit.com/r/learnpython/wiki/index/)
 
 
-#### Being Pythonic
+#### Idiomatic Python (Being Pythonic)
 
 - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
 - [PEP 20 - The Zen of Python](https://peps.python.org/pep-0020/)
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
-  (except I recommend [Poetry](https://python-poetry.org/docs/) over Pipenv)
+  -- except I recommend [Poetry](https://python-poetry.org/docs/) over Pipenv
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
 
@@ -75,33 +236,40 @@
 - [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
 - [Python Design Patterns](https://python-patterns.guide/)
 - [Ultimate Python](https://github.com/huangsam/ultimate-python)
-- [Debugging and Profiling | MIT](https://missing.csail.mit.edu/2020/debugging-profiling/)
 
 
 #### Advanced Python
 
 - [Python Wiki - Advanced Books](https://wiki.python.org/moin/AdvancedBooks)
 
+#### Python Web Frameworks
 
-#### More Python Lists
+- [Django](https://docs.djangoproject.com/) is the first web framework
+  you should learn as it will teach you the Model-View-Controller (MVC)
+  pattern and it comes batteries included so you can focus on getting
+  things done and/or learning if you're a beginner
+- [Bottle.py](https://bottlepy.org/) is the second web framework to
+  learn more about the internals of how they work -- it's contained in a
+  single file
+- [FastAPI](https://fastapi.tiangolo.com/) for those that want a more
+  modern framework that they can customize to their needs
 
-- [vinta/awesome-python](https://github.com/vinta/awesome-python#readme)
 
 
 ## Software Engineering
 
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
-### Reliability (SRE)
 
-- [DORA Metrics](https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment#DORA_Four_Key_Metrics)
-  - **Deployment Frequency:** How often an organization successfully
-    releases to production
-  - **Lead Time for Changes:** The amount of time it takes a commit to
-    get into production
-  - **Change Failure Rate:** The percentage of deployments causing a
-    failure in production
-  - **Mean Time to Recovery/Restore (MTTR):** How long it takes an
-    organization to recover from a failure/outage in production;
-    [not to be confused with MTTRepair, MTTResolve, and MTTRespond](https://www.atlassian.com/incident-management/kpis/common-metrics)
-- [Google SRE Books](https://sre.google/books/)
+### Systems Design
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer#readme)
+
+
+## Version/Revision Control Systems (VCS/RCS)
+
+### Git
+
+- [Pro Git book](https://git-scm.com/book/en/v2)
+- [dictcp/awesome-git](https://github.com/dictcp/awesome-git#readme)
+- [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github#readme)
