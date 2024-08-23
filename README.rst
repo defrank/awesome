@@ -115,11 +115,31 @@ Code Review
 -----------
 
 - `github.com/thoughtbot/guides/code-review`_
+- `_github.com/google/eng-practices/review`_
 
 .. _github.com/thoughtbot/guides/code-review: https://github.com/thoughtbot/guides/tree/main/code-review
+.. _github.com/google/eng-practices/review: https://google.github.io/eng-practices/review/
 
 
 Interviewing
 ============
 
 - https://www.crackingthecodinginterview.com/
+
+
+************
+DevOps & SRE
+************
+
+- `DORA Metrics <https://en.wikipedia.org/wiki/DevOps_Research_and_Assessment#DORA_Four_Key_Metrics>`_
+
+  - **Deployment Frequency:** How often an organization successfully
+    releases to production
+  - **Lead Time for Changes:** The amount of time it takes a commit to
+    get into production
+  - **Change Failure Rate:** The percentage of deployments causing a
+    failure in production
+  - **Mean Time to Recovery/Restore (MTTR):** How long it takes an
+    organization to recover from a failure/outage in production;
+    `not to be confused with MTTRepair, MTTResolve, and MTTRespond
+    <https://www.atlassian.com/incident-management/kpis/common-metrics>`_
