@@ -46,7 +46,7 @@
     - [Advanced Python](#advanced-python)
     - [Python Web Frameworks](#python-web-frameworks)
 - [Software Engineering](#software-engineering)
-  - [Staff+](#staff)
+  - [Tech Lead & Staff+](#tech-lead--staff)
   - [Systems Design](#systems-design)
 - [Version/Revision Control Systems (VCS/RCS)](#versionrevision-control-systems-vcsrcs)
   - [Git](#git)
@@ -320,9 +320,10 @@
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 
-### Staff+
+### Tech Lead & Staff+
 
 - [StaffEng](https://staffeng.com/)
+- [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
 
 
 ### Systems Design
