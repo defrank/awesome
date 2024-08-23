@@ -46,6 +46,7 @@
     - [Advanced Python](#advanced-python)
     - [Python Web Frameworks](#python-web-frameworks)
 - [Software Engineering](#software-engineering)
+  - [Staff+](#staff)
   - [Systems Design](#systems-design)
 - [Version/Revision Control Systems (VCS/RCS)](#versionrevision-control-systems-vcsrcs)
   - [Git](#git)
@@ -317,6 +318,11 @@
 ## Software Engineering
 
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
+
+
+### Staff+
+
+- [StaffEng](https://staffeng.com/)
 
 
 ### Systems Design
