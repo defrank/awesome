@@ -163,6 +163,10 @@
 - [Enapiuz/awesome-monitoring](https://github.com/Enapiuz/awesome-monitoring#readme)
 - [awcodify/awesome-monitoring](https://github.com/awcodify/awesome-monitoring#readme)
 - [crazy-canux/awesome-monitoring](https://github.com/crazy-canux/awesome-monitoring#readme)
+- [Monitoring Distributed Systems](https://landing.google.com/sre/sre-book/chapters/monitoring-distributed-systems/)
+- [Practical Alerting](https://landing.google.com/sre/sre-book/chapters/practical-alerting/)
+- [USE Method](http://www.brendangregg.com/usemethod.html)
+- [RED Method](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/)
 
 
 ### Reliability (SRE)
