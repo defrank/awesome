@@ -24,6 +24,7 @@
 - [DevOps](#devops)
   - [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-cicd)
   - [Monitoring](#monitoring)
+    - [Prometheus](#prometheus)
   - [Reliability (SRE)](#reliability-sre)
 - [Operating Systems](#operating-systems)
   - [Commandline Interface (CLI)](#commandline-interface-cli)
@@ -168,6 +169,9 @@
 - [USE Method](http://www.brendangregg.com/usemethod.html)
 - [RED Method](https://grafana.com/blog/2018/08/02/the-red-method-how-to-instrument-your-services/)
 
+#### Prometheus
+
+- [awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts?tab=readme-ov-file)
 
 ### Reliability (SRE)
 
