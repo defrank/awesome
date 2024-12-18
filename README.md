@@ -55,7 +55,6 @@
 
 <!-- vim-markdown-toc -->
 
-
 ## Collaboration
 
 ### Code Review
@@ -71,12 +70,10 @@
 - [apeman/awesome_computer_science](https://github.com/apeman/awesome_computer_science#readme)
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses#readme)
 
-
 ### Algorithms
 
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/)
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-
 
 ### Data Structures
 
@@ -86,11 +83,9 @@
 
 - [LeetCode](https://leetcode.com/problemset/)
 
-
 ## Courses
 
 - [MIT OpenCourseWare (OCW)](https://ocw.mit.edu/search/)
-
 
 ## Databases
 
@@ -100,18 +95,15 @@
 
 - [r/SQL/wiki](https://www.reddit.com/r/SQL/wiki/index/)
 
-
 ## Editors
 
 ### VI(m)
 
 - [mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc#readme)
 
-
 ## Interviewing
 
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/)
-
 
 ## Computer Networking
 
@@ -123,7 +115,6 @@
 - [facyber/awesome-networking](https://github.com/facyber/awesome-networking#readme)
 - [nyquist/awesome-networking](https://github.com/nyquist/awesome-networking#readme)
 - [r/networking/wiki](https://www.reddit.com/r/networking/wiki/index/)
-
 
 ## Cloud Computing & Infrastructure
 
@@ -138,7 +129,6 @@
 
 - [shuaibiyy/awesome-tf](https://github.com/shuaibiyy/awesome-tf#readme)
 
-
 ## Containers
 
 ### Docker
@@ -148,16 +138,13 @@
 - [docker for beginners](https://docker-curriculum.com/)
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker#readme)
 
-
 ## DevOps
 
 - https://roadmap.sh/devops
 
-
 ### Continuous Integration and Deployment (CI/CD)
 
 - [cicdops/awesome-ciandcd](https://github.com/cicdops/awesome-ciandcd#readme)
-
 
 ### Monitoring
 
@@ -188,16 +175,13 @@
 - [Google SRE Books](https://sre.google/books/)
 - [awesome-sre](https://github.com/dastergon/awesome-sre#readme)
 
-
 ## Operating Systems
 
 - https://www.tutorialspoint.com/operating_system/index.htm
 
-
 ### Commandline Interface (CLI)
 
 - [The Missing Semester of Your CS Education | MIT](https://missing.csail.mit.edu/)
-
 
 ### Linux
 
@@ -215,7 +199,6 @@
 - [Linux from Scratch](https://www.linuxfromscratch.org/) for hardcore
   learning
 - [Slackware](http://www.slackware.com/index.html)
-
 
 ## Privacy
 
@@ -237,21 +220,17 @@
 - [r/learnprogramming/wiki/online](https://www.reddit.com/r/learnprogramming/wiki/online/)
 - [r/learnprogramming/wiki](https://www.reddit.com/r/learnprogramming/wiki/index/)
 
-
 #### Intermediate Programming
 
 - [Refactoring Guru](https://refactoring.guru/refactoring)
-
 
 ### Learn a New Language
 
 - [Learn X in Y Minutes](https://learnxinyminutes.com/)
 
-
 ### Go Lang
 
 - [avelino/awesome-go](https://github.com/avelino/awesome-go#readme)
-
 
 #### Beginner Go
 
@@ -259,23 +238,19 @@
 - [A Tour of Go](https://go.dev/tour/list)
 - [How to Write Go Code](https://go.dev/doc/code)
 
-
 #### Idiomatic Go
 
 - [Managing Module Source](https://go.dev/doc/modules/managing-source)
 - [Organizing a Go Module](https://go.dev/doc/modules/layout)
 - [Effective Go](https://go.dev/doc/effective_go)
 
-
 #### Intermediate Go
 
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
 
-
 ### Python
 
 - [vinta/awesome-python](https://github.com/vinta/awesome-python#readme)
-
 
 #### Beginner Python
 
@@ -285,7 +260,6 @@
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
 - [r/learnpython/wiki](https://www.reddit.com/r/learnpython/wiki/index/)
 
-
 #### Idiomatic Python (Being Pythonic)
 
 - [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
@@ -293,7 +267,6 @@
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
   -- except I recommend [Poetry](https://python-poetry.org/docs/) over Pipenv
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
-
 
 #### Intermediate Python
 
@@ -303,7 +276,6 @@
 - [Design Patterns in Python](https://refactoring.guru/design-patterns/python)
 - [Python Design Patterns](https://python-patterns.guide/)
 - [Ultimate Python](https://github.com/huangsam/ultimate-python)
-
 
 #### Advanced Python
 
@@ -321,23 +293,18 @@
 - [FastAPI](https://fastapi.tiangolo.com/) for those that want a more
   modern framework that they can customize to their needs
 
-
-
 ## Software Engineering
 
 - [Software Engineering at Google](https://abseil.io/resources/swe-book)
-
 
 ### Tech Lead & Staff+
 
 - [StaffEng](https://staffeng.com/)
 - [The Manager's Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/)
 
-
 ### Systems Design
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer#readme)
-
 
 ## Version/Revision Control Systems (VCS/RCS)
 
@@ -346,7 +313,6 @@
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [dictcp/awesome-git](https://github.com/dictcp/awesome-git#readme)
 - [phillipadsmith/awesome-github](https://github.com/phillipadsmith/awesome-github#readme)
-
 
 ## More Awesome
 
