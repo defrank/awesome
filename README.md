@@ -62,7 +62,8 @@
 - [thoughtbot/guides/code-review](https://github.com/thoughtbot/guides/tree/main/code-review)
   -- excellent for async communication in general
 - [google/eng-practices/review](https://google.github.io/eng-practices/review/)
-
+- [15 Rules for Communicating at Github](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/#12-surface-work-early-for-feedback)
+- [Kind Engineering](https://kind.engineering/)
 
 ## Computer Science
 
